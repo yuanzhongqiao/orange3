@@ -1,45 +1,44 @@
-<p align="center">
-    <a href="https://orange.biolab.si/download">
-    <img src="https://raw.githubusercontent.com/irgolic/orange3/README-shields/distribute/orange-title.png" alt="Orange Data Mining" height="200">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+    <a href="https://orange.biolab.si/download" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/irgolic/orange3/README-shields/distribute/orange-title.png" alt="橙色数据挖掘" height="200" style="max-width: 100%;">
     </a>
 </p>
-<p align="center">
-    <a href="https://orange.biolab.si/download" alt="Latest release">
-        <img src="https://img.shields.io/github/v/release/biolab/orange3?label=download" />
+<p align="center" dir="auto">
+    <a href="https://orange.biolab.si/download" alt="最新发布" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/65accb84a3234e69aeb3816c308aa036e02565e04dc2e37e46356c69a19c4e5f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f62696f6c61622f6f72616e6765333f6c6162656c3d646f776e6c6f6164" data-canonical-src="https://img.shields.io/github/v/release/biolab/orange3?label=download" style="max-width: 100%;">
     </a>
-    <a href="https://orange3.readthedocs.io/en/latest/?badge=latest" alt="Documentation">
-        <img src="https://readthedocs.org/projects/orange3/badge/?version=latest">
+    <a href="https://orange3.readthedocs.io/en/latest/?badge=latest" alt="文档" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/4aaa76447bb75ff199f2c8443201230481d931f562249b912a1588baba246a89/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f6f72616e6765332f62616467652f3f76657273696f6e3d6c6174657374" data-canonical-src="https://readthedocs.org/projects/orange3/badge/?version=latest" style="max-width: 100%;">
     </a>
-    <a href="https://discord.gg/FWrfeXV" alt="Discord">
-        <img src="https://img.shields.io/discord/633376992607076354?logo=discord&color=7389D8&logoColor=white&label=Discord">                                                                                                                                                                                                                                                  </a>
+    <a href="https://discord.gg/FWrfeXV" alt="不和谐" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/d11216a0ec4bc98dc21e677127acb77a1b7e41905aaba812f20ceb4cdc55bd4d/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3633333337363939323630373037363335343f6c6f676f3d646973636f726426636f6c6f723d373338394438266c6f676f436f6c6f723d7768697465266c6162656c3d446973636f7264" data-canonical-src="https://img.shields.io/discord/633376992607076354?logo=discord&amp;color=7389D8&amp;logoColor=white&amp;label=Discord" style="max-width: 100%;">                                                                                                                                                                                                                                                  </a>
 </p>
-
-# Orange Data Mining
-[Orange] is a data mining and visualization toolbox for novice and expert alike. To explore data with Orange, one requires __no programming or in-depth mathematical knowledge__. We believe that workflow-based data science tools democratize data science by hiding complex underlying mechanics and exposing intuitive concepts. Anyone who owns data, or is motivated to peek into data, should have the means to do so.
-
-<p align="center">
-    <a href="https://orange.biolab.si/download">
-    <img src="https://raw.githubusercontent.com/irgolic/orange3/README-shields/distribute/orange-example-tall.png" alt="Example Workflow">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">橙色数据挖掘</font></font></h1><a id="user-content-orange-data-mining" class="anchor" aria-label="永久链接：橙色数据挖掘" href="#orange-data-mining"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://orange.biolab.si/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Orange</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个适合新手和专家的数据挖掘和可视化工具箱。要使用 Orange 探索数据，不需要</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程或深入的数学知识</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。我们相信基于工作流的数据科学工具通过隐藏复杂的底层机制和暴露直观的概念来实现数据科学的民主化。任何拥有数据或有动力研究数据的人都应该有办法这样做。</font></font></p>
+<p align="center" dir="auto">
+    <a href="https://orange.biolab.si/download" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/irgolic/orange3/README-shields/distribute/orange-example-tall.png" alt="示例工作流程" style="max-width: 100%;">
     </a>
 </p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装中</font></font></h2><a id="user-content-installing" class="anchor" aria-label="永久链接：安装" href="#installing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简易安装</font></font></h3><a id="user-content-easy-installation" class="anchor" aria-label="永久链接：安装方便" href="#easy-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了方便安装，请从我们的网站</font></font><a href="https://orange.biolab.si/download" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新发布的 Orange 版本。要安装附加组件，请转到</font></font><code>Options -&gt; Add-ons...</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">菜单栏中的 。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Conda 安装</font></font></h3><a id="user-content-installing-with-conda" class="anchor" aria-label="永久链接：使用 Conda 安装" href="#installing-with-conda"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先，</font><font style="vertical-align: inherit;">为您的操作系统安装</font></font><a href="https://docs.conda.io/en/latest/miniconda.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Miniconda 。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后，创建一个新的conda环境，并安装orange3：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span> Add conda-forge to your channels for access to the latest release</span>
+conda config --add channels conda-forge
 
-[Orange]: https://orange.biolab.si/
+<span class="pl-c"><span class="pl-c">#</span> Perhaps enforce strict conda-forge priority</span>
+conda config --set channel_priority strict
 
+<span class="pl-c"><span class="pl-c">#</span> Create and activate an environment for Orange</span>
+conda create python=3.10 --yes --name orange3
+conda activate orange3
 
-## Installing
-
-### Easy installation
-
-For easy installation, [Download](https://orange.biolab.si/download) the latest released Orange version from our website. To install an add-on, head to `Options -> Add-ons...` in the menu bar.
-
-### Installing with Conda
-
-First, install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) for your OS. 
-
-Then, create a new conda environment, and install orange3:
-
-```Shell
-# Add conda-forge to your channels for access to the latest release
+<span class="pl-c"><span class="pl-c">#</span> Install Orange</span>
+conda install orange3</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# Add conda-forge to your channels for access to the latest release
 conda config --add channels conda-forge
 
 # Perhaps enforce strict conda-forge priority
@@ -50,148 +49,161 @@ conda create python=3.10 --yes --name orange3
 conda activate orange3
 
 # Install Orange
-conda install orange3
-```
-
-For installation of an add-on, use:
-```Shell
-conda install orange3-<addon name>
-```
-[See specific add-on repositories for details.](https://github.com/biolab/)
-
-
-### Installing with pip
-
-We recommend using our [standalone installer](https://orange.biolab.si/download) or conda, but Orange is also installable with pip. You will need a C/C++ compiler (on Windows we suggest using Microsoft Visual Studio Build Tools).
-Orange needs PyQt to run. Install either:
-- PyQt5 and PyQtWebEngine: `pip install -r requirements-pyqt.txt` 
-- PyQt6 and PyQt6-WebEngine: `pip install PyQt6 PyQt6-WebEngine`
-
-### Installing with winget (Windows only)
-
-To install Orange with [winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/), run:
-
-```Shell
-winget install --id  UniversityofLjubljana.Orange 
-```
-
-## Running
-
-Ensure you've activated the correct virtual environment. If following the above conda instructions:
-
-```Shell
+conda install orange3" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要安装附加组件，请使用：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>conda install orange3-<span class="pl-k">&lt;</span>addon name<span class="pl-k">&gt;</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="conda install orange3-<addon name>" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><a href="https://github.com/biolab/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关详细信息，请参阅特定的附加存储库。</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 pip 安装</font></font></h3><a id="user-content-installing-with-pip" class="anchor" aria-label="永久链接：使用 pip 安装" href="#installing-with-pip"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们建议使用我们的</font></font><a href="https://orange.biolab.si/download" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">独立安装程序</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或 conda，但 Orange 也可以通过 pip 安装。您将需要一个 C/C++ 编译器（在 Windows 上，我们建议使用 Microsoft Visual Studio 构建工具）。 Orange 需要 PyQt 才能运行。安装：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PyQt5 和 PyQtWebEngine：</font></font><code>pip install -r requirements-pyqt.txt</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PyQt6 和 PyQt6-WebEngine：</font></font><code>pip install PyQt6 PyQt6-WebEngine</code></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 winget 安装（仅限 Windows）</font></font></h3><a id="user-content-installing-with-winget-windows-only" class="anchor" aria-label="永久链接：使用 winget 安装（仅限 Windows）" href="#installing-with-winget-windows-only"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要使用</font></font><a href="https://docs.microsoft.com/en-us/windows/package-manager/winget/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">winget</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Orange ，请运行：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>winget install --id  UniversityofLjubljana.Orange </pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="winget install --id  UniversityofLjubljana.Orange " tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步</font></font></h2><a id="user-content-running" class="anchor" aria-label="永久链接： 跑步" href="#running"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">确保您已激活正确的虚拟环境。如果遵循上述 conda 说明：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>conda activate orange3</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="conda activate orange3" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行</font></font><code>orange-canvas</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><code>python3 -m Orange.canvas</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.添加</font></font><code>--help</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">程序选项列表。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一次启动可能需要一段时间。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></h2><a id="user-content-developing" class="anchor" aria-label="永久链接： 发展中" href="#developing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://actions-badge.atrox.dev/biolab/orange3/goto" rel="nofollow"><img src="https://camo.githubusercontent.com/e04a4478a1bbdce5f5290cd1a0b9e53b922f9068b3ffedde1e2aae46e5fbe416/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e742e7376673f75726c3d6874747073253341253246253246616374696f6e732d62616467652e6174726f782e64657625324662696f6c61622532466f72616e6765332532466261646765266c6162656c3d6275696c64" alt="GitHub 操作" data-canonical-src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fbiolab%2Forange3%2Fbadge&amp;label=build" style="max-width: 100%;"></a> <a href="https://codecov.io/gh/biolab/orange3" rel="nofollow"><img src="https://camo.githubusercontent.com/f8c4a2c618fad5ef9e1c8826965bec7ffea6ffee144825dd5b5d396560325581/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f62696f6c61622f6f72616e676533" alt="代码科夫" data-canonical-src="https://img.shields.io/codecov/c/github/biolab/orange3" style="max-width: 100%;"></a> <a href="https://github.com/biolab/orange3/graphs/contributors"><img src="https://camo.githubusercontent.com/5f7b8c7a6c01c6d48ff1c87ca49a60dcc75845d65ce0b8f5c36195905919dea8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732d616e6f6e2f62696f6c61622f6f72616e676533" alt="贡献者数量" data-canonical-src="https://img.shields.io/github/contributors-anon/biolab/orange3" style="max-width: 100%;"></a> <a href="https://github.com/biolab/orange3/commits/master"><img src="https://camo.githubusercontent.com/067acc1896bd66d93da2df36eebc974cbe58541f43ba926cd516c15fe176e6fb/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f62696f6c61622f6f72616e676533" alt="最新的 GitHub 提交" data-canonical-src="https://img.shields.io/github/last-commit/biolab/orange3" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想写一个小部件吗？</font></font><a href="https://github.com/biolab/orange3-example-addon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Orange3 示例附加模板。</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想参与吗？加入我们的</font></font><a href="https://discord.gg/FWrfeXV" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，在 #general 中介绍自己！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请查看我们的</font></font><a href="https://github.com/irgolic/orange3/blob/README-shields/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://github.com/biolab/orange-widget-base/wiki/Widget-UI"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">风格指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我们的小部件开发</font></font><a href="https://orange-widget-base.readthedocs.io/en/latest/?badge=latest" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，获取有关编写 Orange 小部件的综合指南。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">橙色生态系统</font></font></h3><a id="user-content-the-orange-ecosystem" class="anchor" aria-label="永久链接：Orange 生态系统" href="#the-orange-ecosystem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核心 Orange 的开发主要分为三个存储库：</font></font></p>
+<p dir="auto"><a href="https://www.github.com/biolab/orange-canvas-core"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">biolab/orange-canvas-core</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实现了画布，</font></font><br>
+<a href="https://www.github.com/biolab/orange-widget-base"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">biolab/orange-widget-base</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个方便的小部件 GUI 库，</font></font><br>
+<a href="https://www.github.com/biolab/orange3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">biolab/orange3</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将它们整合在一起并实现了基础数据挖掘工具箱。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此外，附加组件还为更具体的用例实现了额外的小部件。</font></font><a href="https://github.com/biolab/orange3-example-addon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">任何人都可以编写附加组件。</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的一些第一方附加组件：</font></font></p>
+<ul dir="auto">
+<li><a href="https://www.github.com/biolab/orange3-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-text</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-bioinformatics"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-生物信息学</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-timeseries"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/橙色3次系列</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-single-cell"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-单细胞</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-imageanalytics"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-imageanalytics</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-educational"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-教育</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-geo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-geo</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-associate"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-associate</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-network"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-network</font></font></a></li>
+<li><a href="https://www.github.com/biolab/orange3-explain"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物实验室/orange3-解释</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为核心 Orange 开发做好准备</font></font></h3><a id="user-content-setting-up-for-core-orange-development" class="anchor" aria-label="永久链接：为 Orange 核心开发做好准备" href="#setting-up-for-core-orange-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先，按此页面右上角的 fork 按钮来 fork 存储库。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置您的 GitHub 用户名，</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">export</span> MY_GITHUB_USERNAME=replaceme</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="export MY_GITHUB_USERNAME=replaceme" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建一个 conda 环境，克隆您的 fork，然后安装它：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>conda create python=3.10 --yes --name orange3
 conda activate orange3
-``` 
 
-Run `orange-canvas` or `python3 -m Orange.canvas`. Add `--help` for a list of program options.
+git clone ssh://git@github.com/<span class="pl-smi">$MY_GITHUB_USERNAME</span>/orange3
 
-Starting up for the first time may take a while.
-
-
-## Developing
-
-[![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fbiolab%2Forange3%2Fbadge&label=build)](https://actions-badge.atrox.dev/biolab/orange3/goto) [![codecov](https://img.shields.io/codecov/c/github/biolab/orange3)](https://codecov.io/gh/biolab/orange3) [![Contributor count](https://img.shields.io/github/contributors-anon/biolab/orange3)](https://github.com/biolab/orange3/graphs/contributors) [![Latest GitHub commit](https://img.shields.io/github/last-commit/biolab/orange3)](https://github.com/biolab/orange3/commits/master)
-
-Want to write a widget? [Use the Orange3 example add-on template.](https://github.com/biolab/orange3-example-addon)
-
-Want to get involved? Join us on [Discord](https://discord.gg/FWrfeXV), introduce yourself in #general! 
-
-Take a look at our [contributing guide](https://github.com/irgolic/orange3/blob/README-shields/CONTRIBUTING.md) and [style guidelines](https://github.com/biolab/orange-widget-base/wiki/Widget-UI).
-
-Check out our widget development [docs](https://orange-widget-base.readthedocs.io/en/latest/?badge=latest) for a comprehensive guide on writing Orange widgets.
-
-### The Orange ecosystem
-
-The development of core Orange is primarily split into three repositories:
-
-[biolab/orange-canvas-core](https://www.github.com/biolab/orange-canvas-core) implements the canvas,  
-[biolab/orange-widget-base](https://www.github.com/biolab/orange-widget-base) is a handy widget GUI library,  
-[biolab/orange3](https://www.github.com/biolab/orange3) brings it all together and implements the base data mining toolbox.	
-
-Additionally, add-ons implement additional widgets for more specific use cases. [Anyone can write an add-on.](https://github.com/biolab/orange3-example-addon) Some of our first-party add-ons:
-
-- [biolab/orange3-text](https://www.github.com/biolab/orange3-text)
-- [biolab/orange3-bioinformatics](https://www.github.com/biolab/orange3-bioinformatics)
-- [biolab/orange3-timeseries](https://www.github.com/biolab/orange3-timeseries)    
-- [biolab/orange3-single-cell](https://www.github.com/biolab/orange3-single-cell)    
-- [biolab/orange3-imageanalytics](https://www.github.com/biolab/orange3-imageanalytics)    
-- [biolab/orange3-educational](https://www.github.com/biolab/orange3-educational)    
-- [biolab/orange3-geo](https://www.github.com/biolab/orange3-geo)    
-- [biolab/orange3-associate](https://www.github.com/biolab/orange3-associate)    
-- [biolab/orange3-network](https://www.github.com/biolab/orange3-network)
-- [biolab/orange3-explain](https://www.github.com/biolab/orange3-explain)
-
-### Setting up for core Orange development
-
-First, fork the repository by pressing the fork button in the top-right corner of this page.
-
-Set your GitHub username,
-
-```Shell
-export MY_GITHUB_USERNAME=replaceme
-```
-
-create a conda environment, clone your fork, and install it:
-
-```Shell
-conda create python=3.10 --yes --name orange3
+<span class="pl-c"><span class="pl-c">#</span> Install PyQT and PyQtWebEngine. You can also use PyQt6</span>
+pip install -r requirements-pyqt.txt
+pip install -e orange3</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="conda create python=3.10 --yes --name orange3
 conda activate orange3
 
 git clone ssh://git@github.com/$MY_GITHUB_USERNAME/orange3
 
 # Install PyQT and PyQtWebEngine. You can also use PyQt6
 pip install -r requirements-pyqt.txt
-pip install -e orange3
-```
-
-Now you're ready to work with git. See GitHub's guides on [pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests), [forks](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks) if you're unfamiliar. If you're having trouble, get in touch on [Discord](https://discord.gg/FWrfeXV).
-
-#### Running
-
-Run Orange with `python -m Orange.canvas` (after activating the conda environment).
-
-`python -m Orange.canvas -l 2 --no-splash --no-welcome` will skip the splash screen and welcome window, and output more debug info. Use `-l 4` for more.
-
-Add `--clear-widget-settings` to clear the widget settings before start.
-
-To explore the dark side of the Orange, try `--style=fusion:breeze-dark`
-
-Argument `--help` lists all available options.
-
-To run tests, use `unittest Orange.tests Orange.widgets.tests`
-
-
-### Setting up for development of all components
-
-Should you wish to contribute Orange's base components (the widget base and the canvas), you must also clone these two repositories from Github instead of installing them as dependencies of Orange3.
-
-First, fork all the repositories to which you want to contribute. 
-
-Set your GitHub username,
-
-```Shell
-export MY_GITHUB_USERNAME=replaceme
-```
-
-create a conda environment, clone your forks, and install them:
-
-```Shell
-conda create python=3.10 --yes --name orange3
+pip install -e orange3" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在您已准备好使用 git。</font><font style="vertical-align: inherit;">如果您不熟悉，请参阅 GitHub 关于</font></font><a href="https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pull requests</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fork</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的指南。</font><font style="vertical-align: inherit;">如果您遇到问题，请联系</font></font><a href="https://discord.gg/FWrfeXV" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步</font></font></h4><a id="user-content-running-1" class="anchor" aria-label="永久链接： 跑步" href="#running-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行 Orange </font></font><code>python -m Orange.canvas</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（激活 conda 环境后）。</font></font></p>
+<p dir="auto"><code>python -m Orange.canvas -l 2 --no-splash --no-welcome</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将跳过启动屏幕和欢迎窗口，并输出更多调试信息。用于</font></font><code>-l 4</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加</font></font><code>--clear-widget-settings</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在启动前清除小部件设置。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要探索橙色的黑暗面，请尝试</font></font><code>--style=fusion:breeze-dark</code></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参数</font></font><code>--help</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">列出了所有可用选项。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要运行测试，请使用</font></font><code>unittest Orange.tests Orange.widgets.tests</code></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置所有组件的开发</font></font></h3><a id="user-content-setting-up-for-development-of-all-components" class="anchor" aria-label="永久链接：设置所有组件的开发" href="#setting-up-for-development-of-all-components"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您希望贡献 Orange 的基础组件（小部件基础和画布），您还必须从 Github 克隆这两个存储库，而不是将它们安装为 Orange3 的依赖项。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先，分叉您想要贡献的所有存储库。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置您的 GitHub 用户名，</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">export</span> MY_GITHUB_USERNAME=replaceme</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="export MY_GITHUB_USERNAME=replaceme" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建一个 conda 环境，克隆您的分支并安装它们：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>conda create python=3.10 --yes --name orange3
 conda activate orange3
 
-# Install PyQT and PyQtWebEngine. You can also use PyQt6
+<span class="pl-c"><span class="pl-c">#</span> Install PyQT and PyQtWebEngine. You can also use PyQt6</span>
 pip install -r requirements-pyqt.txt
 
-git clone ssh://git@github.com/$MY_GITHUB_USERNAME/orange-widget-base
+git clone ssh://git@github.com/<span class="pl-smi">$MY_GITHUB_USERNAME</span>/orange-widget-base
 pip install -e orange-widget-base
 
-git clone ssh://git@github.com/$MY_GITHUB_USERNAME/orange-canvas-core
+git clone ssh://git@github.com/<span class="pl-smi">$MY_GITHUB_USERNAME</span>/orange-canvas-core
 pip install -e orange-canvas-core
 
-git clone ssh://git@github.com/$MY_GITHUB_USERNAME/orange3
+git clone ssh://git@github.com/<span class="pl-smi">$MY_GITHUB_USERNAME</span>/orange3
 pip install -e orange3
 
-# Repeat for any add-on repositories
-```
-
-It's crucial to install `orange-base-widget` and `orange-canvas-core` before `orange3` to ensure that `orange3` will use your local versions.
+<span class="pl-c"><span class="pl-c">#</span> Repeat for any add-on repositories</span></pre><div class="zeroclipboard-container">
+ 
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><code>orange-base-widget</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装之前</font><font style="vertical-align: inherit;">确保</font><font style="vertical-align: inherit;">使用您的本地版本</font></font><code>orange-canvas-core</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">至关重要</font><font style="vertical-align: inherit;">。</font></font><code>orange3</code><font style="vertical-align: inherit;"></font><code>orange3</code><font style="vertical-align: inherit;"></font></p>
+</article></div>
